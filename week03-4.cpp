@@ -1,4 +1,3 @@
-
 //week03-4
 #include <iostream>
 #include <vector>
